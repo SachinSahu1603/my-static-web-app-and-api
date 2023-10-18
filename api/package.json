@@ -7,5 +7,9 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SachinSahu1603/my-static-web-app-and-api"
+  }
 }
